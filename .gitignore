@@ -1,0 +1,8 @@
+.gradle/
+.idea/
+build/
+gradle/
+gradlew
+gradlew.bat
+python_client/.idea
+python_client/venv
